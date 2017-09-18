@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea
+*.iml
+
+# Gradle
+.gradle
+gradlew.bat
+build/
+/captures
+.externalNativeBuild
+local.properties
+
+# Steve Jobs
+.DS_Store
+
+# Win
+Thumbs.db
